@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mahmud Naseem</h1>
 <h3 align="center">A passionate Senior Software Engineer at Allianz</h3>
 
-<p align="center"> <img src="https://octodex.github.com/images/Fintechtocat.png" alt="angular" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+<p align="center"> <img src="https://octodex.github.com/images/Fintechtocat.png" alt="angular" width="250" height="250"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mhmhnaseem&label=Profile%20views&color=0e75b6&style=flat" alt="mhmhnaseem" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mhmhnaseem" alt="mhmhnaseem" /></a> </p>
