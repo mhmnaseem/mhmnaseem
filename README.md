@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/mnaseem" target="blank"><img src="https://img.shields.io/twitter/follow/mnaseem?logo=twitter&style=for-the-badge" alt="mnaseem" /></a> </p>
 
-- 🔭 I’m currently working on **Internal System Springboot Micro Services**
+- 🔭 I’m currently working on **Internal System Spring Boot Micro Services building and deployments**
 
 - 🌱 I’m currently learning **DevOps**
 
