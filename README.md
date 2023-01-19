@@ -10,11 +10,11 @@
 
 - 🌱 I’m currently learning **DevOps**
 
-- 💬 Ask me about **I work as Senior Software Engineer with the skills in following, Full-Stack Developer, Java, Spring Boot, Node js, Angular, AWS, Micro services, JavaScript, React Js, Kubernetes, CI/CD, MySQL, MongoDB, PostgresSql, Team Lead**
+- 💬 about me: **I work as Senior Software Engineer with the skills in following, Full-Stack Developer, Java, Spring Boot, Node js, Angular, AWS, Micro services, JavaScript, React Js, Kubernetes, CI/CD, MySQL, MongoDB, PostgresSql, Team Lead**
 
 - 📫 How to reach me **mhmnaseem@gmail.com**
 
-- ⚡ Fun fact **live Simple**
+- ⚡ Fun fact **Live Simple**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
