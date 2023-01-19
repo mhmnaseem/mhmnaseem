@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Senior Software Engineer at Allianz</h3>
 
 <p align="center"> <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" alt="img" width="250" height="250"/>
-<p align="left"> <img src="https://github.com/mhmnaseem.png?size=45" alt="mhmhnaseem" />mhmnaseem</p>
+<p align="left"> <img src="https://github.com/mhmnaseem.png?size=100" alt="mhmhnaseem" />  mhmnaseem </p>
 
 <p align="left"> <a href="https://twitter.com/mnaseem" target="blank"><img src="https://img.shields.io/twitter/follow/mnaseem?logo=twitter&style=for-the-badge" alt="mnaseem" /></a> </p>
 
